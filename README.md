@@ -4,7 +4,7 @@
 
 |key|value|
 |----|----|
-|Email|songpowerkai@gmail.com|
+|Email|<songpowerkai@gmail.com>|
 |Qiita|[sparkecho343](https://qiita.com/sparkecho343)|
 |Zenn|[sparkecho343](https://zenn.dev/song1)|
 
