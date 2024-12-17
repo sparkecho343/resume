@@ -5,7 +5,8 @@
 |key|value|
 |----|----|
 |Email|songpowerkai@gmail.com|
-|Qiita|[shaw343](https://qiita.com/sparkecho343)|
+|Qiita|[sparkecho343](https://qiita.com/sparkecho343)|
+|Zenn|[sparkecho343](https://zenn.dev/song1)|
 
 ## 職務要約
 
